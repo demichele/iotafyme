@@ -13,8 +13,6 @@ var app = express();
 
 
 
-
-
 //Set up mongoose connection
 var mongoose = require('mongoose');
 var mongoDB = 'mongodb://localhost:27017/librarydb';
